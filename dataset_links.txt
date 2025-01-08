@@ -1,0 +1,2 @@
+Dataset1 : https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
+Dataset2 : https://www.kaggle.com/datasets/rupakroy/ethereum-fraud-detection
